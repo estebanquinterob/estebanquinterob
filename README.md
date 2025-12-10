@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @estebanquinterob
-- 👀 I’m interested in learning with passion and immerse myself in the world of development, doing something that has catched my attention and curiousity for a long time, but recently I could start conllecting experiences
+- 👀 I’m interested in learning with passion and immerse myself in the world of development, doing something that has catched my attention and curiousity for a long time, but recently I could start collecting experiences
 - 🌱 I’m currently learning html, css, javascript, react, node.js, next.js, german and how to get my best and most peaceful version
 - 💞️ I’m looking to collaborate on  projects where i can practice what i have learned and learned more by doing them
 - 📫 How to reach me: my ig is estebanquintro
